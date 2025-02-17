@@ -15,7 +15,7 @@
 
 /* Contoh header dengan gambar latar belakang */
 header {
-    background-image: url('lomba.jpg');
+    background-image: url('images/lomba.jpg');
     background-size: cover; /* Merubah cover agar lebih baik */
     background-position: center;
     background-repeat: no-repeat;
