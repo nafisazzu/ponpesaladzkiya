@@ -15,7 +15,7 @@
 
 /* Contoh header dengan gambar latar belakang */
 header {
-    background-image: url('images/WhatsApp\ Image\ 2025-02-16\ at\ 16.06.46_fd64dc83\ \(1\).jpg');
+    background-image: url('images/fotbar.jpg');
     background-size: cover; /* Merubah cover agar lebih baik */
     background-position: center;
     background-repeat: no-repeat;
